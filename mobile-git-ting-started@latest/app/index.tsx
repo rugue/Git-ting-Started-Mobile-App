@@ -1,6 +1,7 @@
 import { Text, View } from "react-native";
 
 const GITHUB_REPO_URL = "https://github.com/rugue/Git-ting-Started-Mobile-App"
+const HNG_HIRE_URL = "https://hng.tech"
 
 export default function Index() {
   return (
