@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "mobile-git-ting-started@latest",
-    "slug": "mobile-git-ting-started@latest",
+    "name": "MobileGittingStarted",
+    "slug": "mobilegittingstarted",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
@@ -36,6 +36,14 @@
     ],
     "experiments": {
       "typedRoutes": true
+    },
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "d8923e50-5795-48ef-b544-8e1525c15a3d"
+      }
     }
   }
 }
