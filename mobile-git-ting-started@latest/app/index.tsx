@@ -5,14 +5,8 @@ const HNG_HIRE_URL = "https://hng.tech";
 
 export default function Index() {
   return (
-    <View
-      style={{
-        flex: 1,
-        justifyContent: "center",
-        alignItems: "center",
-      }}
-    >
-      <Text>Edit app/index.tsx to edit this screen.</Text>
+    <View style={styles.container}>
+      <Text style={styles.title}>Git-ting Started 🚀</Text>
     </View>
   );
 }
